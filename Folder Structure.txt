@@ -1,0 +1,13 @@
+truthlens/
+├── app/
+│   ├── main.py              # FastAPI app
+│   ├── models/              # ML models
+│   ├── services/            # Business logic
+│   ├── database/            # DB connections
+│   └── utils/               # Helper functions
+├── frontend/                # React/HTML files
+├── data/                    # Datasets
+├── notebooks/               # Jupyter notebooks
+├── tests/                   # Test files
+├── requirements.txt
+└── README.md
