@@ -5,3 +5,8 @@ numpy
 nltk
 spaCy
 tqdm
+matplotlib
+transformers
+datasets
+torch
+streamlit
