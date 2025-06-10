@@ -1,0 +1,12 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+nltk
+spaCy
+tqdm
+matplotlib
+transformers
+datasets
+torch
+streamlit

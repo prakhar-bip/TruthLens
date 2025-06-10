@@ -1,0 +1,17 @@
+What to Build:-
+
+Select any public dataset that sparks your interest and, using AI for analysis and generation— alongside MongoDB’s powerful search and vector search and our Google integrations— create a solution that helps users understand, interact with, or gain new perspectives from the data that shapes our world. 
+
+
+
+🎯 Must-Have Core Features
+
+Text Input & Analysis - Article paste karke analyze karna
+Truth Score - 0-100% credibility rating
+Simple Web Interface - Basic HTML form + results page
+
+🤖 AI/ML Learning Features
+
+Sentiment Analysis - Positive/Negative detection (NLTK/TextBlob)
+Bias Detection - Political lean classifier (scikit-learn)
+AI Content Analysis - OpenAI API integration for detailed analysis
